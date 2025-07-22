@@ -21,3 +21,10 @@ This project explores customer and product transaction data from a grocery datas
 - Deep dive into product categories contributing to high revenue.
 - Compare average basket sizes across customer segments.
 - Assess impact of discounting and price changes on volume and revenue.
+
+---
+
+## Disclaimer
+This analysis is for **educational purposes** and does not reflect the actual business metrics of **RevoGrocers**.  
+Insights and recommendations are derived from the provided dataset and **may not represent real market conditions**.  
+Ensure your results, interpretations, and screenshots use **your own analysis only**.
